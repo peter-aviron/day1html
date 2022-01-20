@@ -11,4 +11,4 @@ Git:
 
 Further Reading
 - [MDN](https://developer.mozilla.org/en-US/)
-- [What is Version Contrl](https://www.atlassian.com/git/tutorials/what-is-version-control) 
+- [What is Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control) 
