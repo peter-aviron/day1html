@@ -12,3 +12,4 @@ Git:
 Further Reading
 - [MDN](https://developer.mozilla.org/en-US/)
 - [What is Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control) 
+- [Codecademy HTML Glossary](https://www.codecademy.com/article/glossary-html)
