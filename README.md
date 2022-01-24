@@ -1,13 +1,18 @@
-Day1 - 30mins demo:
+# Day1
+
+## Demo (30 mins, recorded):
 - navigating a basic file system via CLI
-    1. `cd directory_name_here` change the current working directory to `directory_name_here`
+    1. `cd directory_name_here` change the current working directory (CWD) to `directory_name_here`
+    2. `touch filename` create a new file called `filename` in the CWD
+    3. `code file_or_directory` open `file_or_directory` in VS Code, `code .` will open the CWD in VS Code 
+        - `.` is a shortcut on the CLI for the CWD
 - creating basic html elements
 - the DOM vs HTML
 - inspecting the DOM with dev tools
 - picking an element with element picker
 - creating a github repository
 - making changes to a github repo: 
-    1. `git add .` this will add all files to the staging area (`.` is a shortcut on the CLI for the current working directory)
+    1. `git add .` this will add all files to the staging area 
     2. `git commit -m 'commit message here'` -  save the files in the staging area to local git repo
     3. `git push` - push the saved local changes to the remote git repo 
 - adding a README
