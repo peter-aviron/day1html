@@ -1,4 +1,8 @@
-Day1 - 30mins demo, 30 mins setup tooling
+Day1 - 30mins demo:
+- navigating a basic file system via CLI
+- creating a github repository
+
+30 mins setup tooling (VS code, git bash, github account)
 
 Week 1 Interactive Course:
 - [FreeCodeCamp HTML Course](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
